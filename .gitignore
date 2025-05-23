@@ -1,0 +1,5 @@
+.venv/
+execute.bat
+.vscode/
+test.ipynb
+.ipynb_checkpoints
